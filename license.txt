@@ -1,0 +1,29 @@
+Order From Chaos by Saurabh aka JSX <saurabh@rebugged.com>
+http://rebugged.com/OrderFromChaos/
+
+Order From Chaos is a free web template released under Creative Commons Attribution 3.0 Unported License. You are free to download, modify and redistribute this template as long as you attribute to the original author.
+
+Read full license terms at http://creativecommons.org/licenses/by/3.0/
+
+Images
+------
+The three photos in the featured content slider are copyrighted by Saurabh aka JSX [ http://rebugged.com ]. Covered under Creative Commons Attribution 3.0 Unported License.
+
+The heart icon in footer is in public domain. Designed by the Tango Project [ http://tango.freedesktop.org/ ]
+
+The email icon in newsletter form is also in public domain.
+
+Fonts
+-----
+Lobster Font [ http://www.impallari.com/lobster/ ]
+Asap Font [ http://www.omnibus-type.com/ ]
+Yanone Kaffeesatz Font [ http://www.yanone.de/typedesign/kaffeesatz/ ]
+Damion Font [ http://code.newtypography.co.uk/ ]
+
+All the above fonts are open source, covered under OFL [ http://scripts.sil.org/OFL ]
+
+Scripts
+-------
+jQuery is released under MIT License and GPL V2
+
+
